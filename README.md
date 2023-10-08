@@ -51,14 +51,14 @@
 </head>
 <body>
     <header>
-        <h1>Your Professional Website</h1>
+        <h1>The Hacktivist</h1>
     </header>
     <nav>
         <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">Research</a></li>
+            <li><a href="#">Walkthroughs</a></li>
+            <li><a href="#">CTF's</a></li>
         </ul>
     </nav>
     <main>
