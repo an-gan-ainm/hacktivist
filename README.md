@@ -56,8 +56,8 @@
     <nav>
         <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="#">Research</a></li>
-            <li><a href="#">Walkthroughs</a></li>
+            <li><a href="Research">Research</a></li>
+            <li><a href="Walkthroughs">Walkthroughs</a></li>
             <li><a href="#">CTF's</a></li>
         </ul>
     </nav>
